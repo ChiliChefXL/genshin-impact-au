@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到🌶椒椒堂🌶
 
-You can use the [editor on GitHub](https://github.com/ChiliChefXL/genshin-impact-au/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个由作者自己搭建的静态博客，无须翻墙。仅用于分享原神同人文章。原网址点击跳转[Lofter椒椒堂厨娘主页](https://jiaojiaotangchuniang.lofter.com/)🐻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为防止踩雷，重复提示：�我主要发一些脑补的段子，不喜欢请屏蔽我。算是绫人和公子攻妈。因为只是脑洞存档所以比较放飞，但我自己喜欢就好。如果你也喜欢，那就更好了。
 
 ### Markdown
 
