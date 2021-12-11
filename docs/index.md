@@ -2,36 +2,47 @@
 
 这是一个由作者自己搭建的静态博客，无须翻墙。仅用于分享原神同人文章。原网址点击跳转[Lofter椒椒堂厨娘主页](https://jiaojiaotangchuniang.lofter.com/)🐻
 
-为防止踩雷，重复提示：�我主要发一些脑补的段子，不喜欢请屏蔽我。算是绫人和公子攻妈。因为只是脑洞存档所以比较放飞，但我自己喜欢就好。如果你也喜欢，那就更好了。
+为防止踩雷，重复提示：我主要发一些脑补的段子，不喜欢请屏蔽我。算是绫人和公子攻妈。因为只是脑洞存档所以比较放飞，但我自己喜欢就好。如果你也喜欢，那就更好了。
 
-### Markdown
+### [绫斗]爱是什么1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Markdown
+绫人正坐在桌前思考剩下的卷宗怎么处理，听见有人敲门。
 
-# Header 1
-## Header 2
-### Header 3
+「大人！大人！」
 
-- Bulleted
-- List
+一位紫色盔甲的天守阁护卫恭恭敬敬进来，站在门边，低着头不敢看他，似是有什么大事不敢说出口。
 
-1. Numbered
-2. List
+绫人皱眉，「有什么事？」
 
-**Bold** and _Italic_ and `Code` text
+对方一副诚惶诚恐的表情，颤抖着声音说，有人在天守阁前大吵大闹，说要把这里砸个稀巴烂，去了四个士兵阻止他，结果都被打趴下了，那人嘴角留着血已经进到阁内平台上了。
 
-[Link](url) and ![Image](src)
+绫人木着脸没什么表情，转身把桌后的窗帘拉起来，昏暗的室内一下子变得明亮。他稍微侧着身子去查看平台上的情况，果不其然，已经有两位可怜的护卫死拖住一位花里胡哨的男人。
+
+那个男人仿佛也感觉到有人在看他，一抬头便看到有官员从高窗上向下睨视着他，便中气十足吼了一句：「臭当官的！还不快下来给本大爷求饶！把九条狗贼交出来！本大爷饶你们不死！」
+
+绫人眯起眼盯住他一会儿，并不回话。那个男人又吼话了：「你哑巴了吗！我问你话呢！」
+
+看样子对方还没认出他是谁。绫人拉下窗帘，并不打算回应。
+
+护卫还在原地等待命令。
+
+「把那个男人带来这里，我有话问他。」
+
+护卫长吁口气，小跑离开，留下绫人一个人呆在室内，扇子捂住嘴，笑眯眯地想着什么。
+
+*
+
+「荒泷一斗，我们又见面了。」
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChiliChefXL/genshin-impact-au/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 其他
 
-### Support or Contact
+暂无
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 其他
+
+暂无
